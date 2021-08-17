@@ -1,0 +1,104 @@
+.panel {
+    margin: 20px 20px;
+    border-radius: 5px;
+}
+
+.heading {
+    border-radius: 5px;
+    color: white;
+    padding: 15px;
+}
+
+.panel-body {
+    padding: 15px;
+    background-color: white;
+}
+
+.panel-primary{
+    background-color: navy;
+    border: 3px solid navy;
+}
+
+.panel-secondary {
+    background-color: olive;
+    border: 3px solid olive;
+}
+
+.panel-error{
+        background-color: crimson;
+        border: 3px solid crimson;
+}
+
+.Theam-button{
+    margin-left: 20px;
+}
+
+.button-primary{
+    background-color: navy;
+    color: white;
+    padding: 1rem;
+    border-radius: 0.50rem 0.50rem 0.50rem 0.50rem;
+}
+
+.button-secondary{
+    background-color: olive;
+    color: white;
+    padding: 1rem;
+    border-radius: 0.50rem 0.50rem 0.50rem 0.50rem;
+}
+
+.button-error{
+    background-color:  crimson;
+    color: white;
+    padding: 1rem;
+    border-radius: 0.50rem 0.50rem 0.50rem 0.50rem;
+}
+
+.button-google{
+    background-color: navy;
+    
+    padding: 1rem;
+    border-radius: 0.50rem 0.50rem 0.50rem 0.50rem;
+}
+
+.google{
+    text-decoration: none;
+    color: white;
+}
+
+.button-primary:hover {
+    background-color: blueviolet;
+    color: white;
+}
+.button-primary:active {
+    background-color: navy;
+    color: white;
+}
+
+.button-secondary:hover {
+    background-color: #b3b300;
+    color: white;
+}
+
+.button-secondary:active {
+    background-color: olive;
+    color: white;
+}
+
+.button-error:hover {
+    background-color:red;
+    color: white;
+}
+
+.button-error:active {
+    background-color: crimson;
+    color: white;
+}
+
+.google:hover {
+    background-color: blue;
+}
+
+.google:active {
+    background-color: navy;
+}
