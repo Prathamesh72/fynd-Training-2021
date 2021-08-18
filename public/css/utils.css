@@ -34,3 +34,11 @@
     margin-top: 1.5em;
     margin-bottom: 1.5em;
 }
+
+.img-wrapper {
+    width: 100%;
+}
+
+.img-fluid {
+    width: 100%;
+}
